@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$USER_HOME$/Downloads/jfreechart-1.5.1/svg/lib" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
